@@ -1,0 +1,21 @@
+{
+  "name": "cise_ass1a_worksheet4",
+  "version": "1.0.0",
+  "description": "seper",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "app": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jiahao Guo",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.1.0",
+    "config": "^3.3.7",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.10",
+    "nodemon": "^2.0.15"
+  }
+}
